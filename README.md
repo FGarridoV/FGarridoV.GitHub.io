@@ -14,7 +14,7 @@ It includes information about my research, projects, CV, personal interests, and
 
 ## 🌐 Live Site
 
-👉 [https://yourusername.github.io](https://fgarridov.github.io)
+👉 [www.fgarridov.cl](www.fgarridov.cl)
 
 ## ✍️ License
 
