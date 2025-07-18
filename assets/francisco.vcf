@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Garrido;Francisco;;;
+FN:Francisco Garrido
+ORG:TU Delft
+TITLE:PhD Researcher
+TEL:+31612345678
+EMAIL:francisco@example.com
+URL:https://fgarridov.github.io
+END:VCARD
